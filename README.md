@@ -131,7 +131,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/pablofigueroa16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo figueroa" height="30" width="40" /></a>
   <a href="https://github.com/pablofigueroa16" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="30" width="40" /></a>
-  <a href="https://porfolio-pablo-figueroa.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="portfolio" height="30" width="40" /></a>
+  <a href="https://portfolio-pablo-figueroa.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="portfolio" height="30" width="40" /></a>
 </p>
 
 ---
